@@ -1,0 +1,54 @@
+*
+{
+   margin:10px;
+   
+}
+/*table*/
+/*{*/
+/*   padding:5px;*/
+/*   margin:5px auto ;*/
+/*   width:500px;*/
+/*   height:200px;*/
+/*}*/
+/*th,td*/
+/*{*/
+/*   padding:5px;*/
+/*   margin:5px auto ;*/
+/*   border:3px solid Black;*/
+/*}*/
+/*td*/
+/*{*/
+/*    text-align:center;*/
+/*    background:#EEE;*/
+/*}*/
+/*th*/
+/*{*/
+/*   background:#AAA;*/
+/*}*/
+
+
+
+
+/*formatting form */
+form
+{
+   width:500px;
+   height: 100%;
+   padding:5px;
+   margin:5px auto;
+   background:#AAA;
+   
+   
+}
+  .left
+{
+   float:left;
+   margin:10px 50px ;
+}
+.text
+{
+   text-align:center;
+   margin:50px auto;
+   font-size:40px;
+   float:none;
+}
